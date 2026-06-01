@@ -44,6 +44,7 @@ General workflow tools, not code-specific.
 - **[grill-me](./skills/productivity/grill-me/SKILL.md)** — Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved.
 - **[handoff](./skills/productivity/handoff/SKILL.md)** — Compact the current conversation into a handoff document so another agent can continue the work.
 - **[write-a-skill](./skills/productivity/write-a-skill/SKILL.md)** — Create new skills with proper structure, progressive disclosure, and bundled resources.
+- **[write-style-guide](./skills/productivity/write-style-guide/SKILL.md)** — Detect the repo's stack and conventions, interview the user on contested choices, then write a `STYLE.md` that the `review` skill's Standards axis can cite.
 
 ### Misc
 

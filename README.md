@@ -22,10 +22,14 @@ See [`CLAUDE.md`](./CLAUDE.md) for the rules each bucket follows.
 
 Skills used daily for code work.
 
-_No skills yet._
+- **[grill-with-docs](./skills/engineering/grill-with-docs/SKILL.md)** — Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates `CONTEXT.md` and ADRs inline as decisions crystallise.
 
 ### Productivity
 
 General workflow tools, not code-specific.
 
-_No skills yet._
+- **[grill-me](./skills/productivity/grill-me/SKILL.md)** — Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved.
+
+## Attribution
+
+Some skills are adapted from other open-source skill collections. See [`ATTRIBUTIONS.md`](./ATTRIBUTIONS.md) for sources and licenses.

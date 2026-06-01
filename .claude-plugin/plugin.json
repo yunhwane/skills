@@ -1,4 +1,7 @@
 {
   "name": "myskills",
-  "skills": []
+  "skills": [
+    "./skills/engineering/grill-with-docs",
+    "./skills/productivity/grill-me"
+  ]
 }

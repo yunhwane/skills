@@ -2,6 +2,7 @@
   "name": "myskills",
   "skills": [
     "./skills/engineering/grill-with-docs",
-    "./skills/productivity/grill-me"
+    "./skills/productivity/grill-me",
+    "./skills/misc/git-guardrails-claude-code"
   ]
 }

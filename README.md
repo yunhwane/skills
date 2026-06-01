@@ -10,6 +10,7 @@ Skills live under `skills/`, grouped into buckets:
 
 - **engineering/** — daily code work
 - **productivity/** — daily non-code workflow tools
+- **misc/** — kept around but rarely used
 - **personal/** — tied to my own setup, not promoted
 - **in-progress/** — drafts not yet ready to ship
 - **deprecated/** — no longer used
@@ -29,6 +30,12 @@ Skills used daily for code work.
 General workflow tools, not code-specific.
 
 - **[grill-me](./skills/productivity/grill-me/SKILL.md)** — Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved.
+
+### Misc
+
+Tools kept around but rarely used.
+
+- **[git-guardrails-claude-code](./skills/misc/git-guardrails-claude-code/SKILL.md)** — Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.) before they execute.
 
 ## Attribution
 

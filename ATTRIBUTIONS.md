@@ -12,6 +12,7 @@ Skills imported (verbatim or lightly modified):
 
 - `skills/productivity/grill-me/` — from `skills/productivity/grill-me/`
 - `skills/engineering/grill-with-docs/` — from `skills/engineering/grill-with-docs/`
+- `skills/misc/git-guardrails-claude-code/` — from `skills/misc/git-guardrails-claude-code/`
 
 ### Original MIT License
 

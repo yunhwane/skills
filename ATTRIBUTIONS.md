@@ -11,6 +11,9 @@ Copyright (c) Matt Pocock
 Skills imported (verbatim or lightly modified):
 
 - `skills/productivity/grill-me/` — from `skills/productivity/grill-me/`
+- `skills/productivity/caveman/` — from `skills/productivity/caveman/`
+- `skills/productivity/handoff/` — from `skills/productivity/handoff/`
+- `skills/productivity/write-a-skill/` — from `skills/productivity/write-a-skill/`
 - `skills/engineering/grill-with-docs/` — from `skills/engineering/grill-with-docs/`
 - `skills/engineering/diagnose/` — from `skills/engineering/diagnose/`
 - `skills/engineering/improve-codebase-architecture/` — from `skills/engineering/improve-codebase-architecture/`
@@ -24,6 +27,7 @@ Skills imported (verbatim or lightly modified):
 Skills with hybrid origin (some files verbatim, some adapted):
 
 - `skills/engineering/tdd/` — `SKILL.md`, `refactoring.md`, `deep-modules.md` verbatim from mattpocock/skills. `tests.md`, `mocking.md`, `interface-design.md` rewritten with Java/Spring Boot, DDD, OOP, and Clean Code examples.
+- `skills/engineering/setup-myskills/` — adapted from `skills/engineering/setup-matt-pocock-skills/`. Body content kept; renamed skill (frontmatter `name`, title) to `setup-myskills`. Companion seed files (`domain.md`, `issue-tracker-*.md`, `triage-labels.md`) verbatim. Cross-references in `triage`, `to-issues`, `to-prd` updated to `/setup-myskills`.
 
 ### Original MIT License
 

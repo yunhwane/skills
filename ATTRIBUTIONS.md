@@ -2,6 +2,18 @@
 
 This repo includes skills derived from other open-source projects. Their original copyrights and licenses are preserved below.
 
+## multica-ai/andrej-karpathy-skills
+
+Source: https://github.com/multica-ai/andrej-karpathy-skills
+License: MIT
+Author: forrestchang
+
+Skills imported (verbatim):
+
+- `skills/engineering/karpathy-guidelines/` — from `skills/karpathy-guidelines/`
+
+Scripts adapted (`scripts/link-skills.sh`, `scripts/list-skills.sh`) follow the mattpocock/skills pattern, not this repo. See the mattpocock entry below.
+
 ## mattpocock/skills
 
 Source: https://github.com/mattpocock/skills

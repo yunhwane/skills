@@ -26,6 +26,7 @@ Skills used daily for code work.
 - **[diagnose](./skills/engineering/diagnose/SKILL.md)** — Disciplined diagnosis loop for hard bugs and performance regressions: reproduce → minimise → hypothesise → instrument → fix → regression-test.
 - **[grill-with-docs](./skills/engineering/grill-with-docs/SKILL.md)** — Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates `CONTEXT.md` and ADRs inline as decisions crystallise.
 - **[improve-codebase-architecture](./skills/engineering/improve-codebase-architecture/SKILL.md)** — Find deepening opportunities in a codebase, informed by `CONTEXT.md` and `docs/adr/`. Renders the review as a self-contained HTML report with before/after diagrams.
+- **[karpathy-guidelines](./skills/engineering/karpathy-guidelines/SKILL.md)** — Behavioral guidelines (Think Before Coding · Simplicity First · Surgical Changes · Goal-Driven Execution) to reduce common LLM coding mistakes.
 - **[prototype](./skills/engineering/prototype/SKILL.md)** — Build a throwaway prototype to flesh out a design — either a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.
 - **[setup-myskills](./skills/engineering/setup-myskills/SKILL.md)** — Scaffold the per-repo config (issue tracker, triage label vocabulary, domain doc layout) that the other engineering skills consume. Run once per repo before using `to-issues`, `to-prd`, `triage`, `diagnose`, `tdd`, `improve-codebase-architecture`, or `zoom-out`.
 - **[tdd](./skills/engineering/tdd/SKILL.md)** — Test-driven development with a red-green-refactor loop. Java/Spring Boot examples grounded in DDD, OOP, and Clean Code.
@@ -48,6 +49,20 @@ General workflow tools, not code-specific.
 Tools kept around but rarely used.
 
 - **[git-guardrails-claude-code](./skills/misc/git-guardrails-claude-code/SKILL.md)** — Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.) before they execute.
+
+## Local install
+
+Symlink every `SKILL.md` folder in this repo into `~/.claude/skills/` so the local Claude CLI picks them up:
+
+```bash
+./scripts/link-skills.sh
+```
+
+List every skill found in the repo:
+
+```bash
+./scripts/list-skills.sh
+```
 
 ## Attribution
 

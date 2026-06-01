@@ -40,6 +40,7 @@ Skills with hybrid origin (some files verbatim, some adapted):
 
 - `skills/engineering/tdd/` — `SKILL.md`, `refactoring.md`, `deep-modules.md` verbatim from mattpocock/skills. `tests.md`, `mocking.md`, `interface-design.md` rewritten with Java/Spring Boot, DDD, OOP, and Clean Code examples.
 - `skills/engineering/setup-myskills/` — adapted from `skills/engineering/setup-matt-pocock-skills/`. Body content kept; renamed skill (frontmatter `name`, title) to `setup-myskills`. Companion seed files (`domain.md`, `issue-tracker-*.md`, `triage-labels.md`) verbatim. Cross-references in `triage`, `to-issues`, `to-prd` updated to `/setup-myskills`.
+- `skills/engineering/review/` — promoted from upstream `skills/in-progress/review/`. Body kept verbatim; `/setup-matt-pocock-skills` reference updated to `/setup-myskills`. Upstream marks this as draft — treat findings as best-effort until the skill is hardened.
 
 ### Original MIT License
 

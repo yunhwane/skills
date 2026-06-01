@@ -14,6 +14,10 @@ Skills imported (verbatim or lightly modified):
 - `skills/engineering/grill-with-docs/` — from `skills/engineering/grill-with-docs/`
 - `skills/misc/git-guardrails-claude-code/` — from `skills/misc/git-guardrails-claude-code/`
 
+Skills with hybrid origin (some files verbatim, some adapted):
+
+- `skills/engineering/tdd/` — `SKILL.md`, `refactoring.md`, `deep-modules.md` verbatim from mattpocock/skills. `tests.md`, `mocking.md`, `interface-design.md` rewritten with Java/Spring Boot, DDD, OOP, and Clean Code examples.
+
 ### Original MIT License
 
 ```

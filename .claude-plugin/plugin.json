@@ -2,6 +2,7 @@
   "name": "myskills",
   "skills": [
     "./skills/engineering/grill-with-docs",
+    "./skills/engineering/tdd",
     "./skills/productivity/grill-me",
     "./skills/misc/git-guardrails-claude-code"
   ]

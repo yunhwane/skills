@@ -13,6 +13,11 @@ Skills imported (verbatim or lightly modified):
 - `skills/productivity/grill-me/` — from `skills/productivity/grill-me/`
 - `skills/engineering/grill-with-docs/` — from `skills/engineering/grill-with-docs/`
 - `skills/engineering/diagnose/` — from `skills/engineering/diagnose/`
+- `skills/engineering/improve-codebase-architecture/` — from `skills/engineering/improve-codebase-architecture/`
+- `skills/engineering/prototype/` — from `skills/engineering/prototype/`
+- `skills/engineering/triage/` — from `skills/engineering/triage/`
+- `skills/engineering/to-issues/` — from `skills/engineering/to-issues/`
+- `skills/engineering/to-prd/` — from `skills/engineering/to-prd/`
 - `skills/engineering/zoom-out/` — from `skills/engineering/zoom-out/`
 - `skills/misc/git-guardrails-claude-code/` — from `skills/misc/git-guardrails-claude-code/`
 

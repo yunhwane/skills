@@ -17,10 +17,6 @@ Skills live under `skills/`, grouped into buckets:
 
 See [`CLAUDE.md`](./CLAUDE.md) for the rules each bucket follows.
 
-## Coding standards
-
-[`STYLE.md`](./STYLE.md) is an opinionated Java + Spring Boot style guide consumed by the [`review`](./skills/engineering/review/SKILL.md) skill's Standards axis. Copy it into a backend repo and adapt as needed.
-
 ## Reference
 
 ### Engineering

@@ -1,8 +1,10 @@
 {
   "name": "myskills",
   "skills": [
+    "./skills/engineering/diagnose",
     "./skills/engineering/grill-with-docs",
     "./skills/engineering/tdd",
+    "./skills/engineering/zoom-out",
     "./skills/productivity/grill-me",
     "./skills/misc/git-guardrails-claude-code"
   ]

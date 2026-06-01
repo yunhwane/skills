@@ -12,6 +12,8 @@ Skills imported (verbatim or lightly modified):
 
 - `skills/productivity/grill-me/` — from `skills/productivity/grill-me/`
 - `skills/engineering/grill-with-docs/` — from `skills/engineering/grill-with-docs/`
+- `skills/engineering/diagnose/` — from `skills/engineering/diagnose/`
+- `skills/engineering/zoom-out/` — from `skills/engineering/zoom-out/`
 - `skills/misc/git-guardrails-claude-code/` — from `skills/misc/git-guardrails-claude-code/`
 
 Skills with hybrid origin (some files verbatim, some adapted):
